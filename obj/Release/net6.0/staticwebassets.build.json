@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "J44k9OjbD5ciftm+V4hdoT8YNPVgNv2vEi9+suo/EcI=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "C:\\estudos\\balta\\backend-net\\AspNet\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\estudos\\balta\\backend-net\\AspNet\\Blog\\wwwroot\\images\\876e4ddf-d74a-4238-a2a0-83a9959015eb.jpg",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\estudos\\balta\\backend-net\\AspNet\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "RelativePath": "images/876e4ddf-d74a-4238-a2a0-83a9959015eb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\876e4ddf-d74a-4238-a2a0-83a9959015eb.jpg"
+    },
+    {
+      "Identity": "C:\\estudos\\balta\\backend-net\\AspNet\\Blog\\wwwroot\\images\\ca5c5a0a-3dff-4e61-8d6c-ff9f6e86eedd.jpg",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\estudos\\balta\\backend-net\\AspNet\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "RelativePath": "images/ca5c5a0a-3dff-4e61-8d6c-ff9f6e86eedd.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ca5c5a0a-3dff-4e61-8d6c-ff9f6e86eedd.jpg"
+    }
+  ]
+}
